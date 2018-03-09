@@ -2,6 +2,5 @@
 Training with repository at SoftTech 
 
 Writing in GitBash directory and GitBash.
-Made a change in master branch.
+Made a change in both branches.
 
-Added new branch beta with GitBash.
